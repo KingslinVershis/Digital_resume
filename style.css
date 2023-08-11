@@ -436,8 +436,8 @@ section .side{
         font-weight: bold;
     }
 .photo{
-    width: 20vw;
-    height: 16vh;
+    width: 90px;
+    height: 90px;
     top: 10px;
     left: 10px;
 }
@@ -479,7 +479,7 @@ section .side{
 }
 
 
-@media screen and (max-width:380px){
+@media screen and (max-width:400px){
     header{
         height: 110px;
     }
